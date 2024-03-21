@@ -1,0 +1,15 @@
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\MyClientApp.exe.config
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\MyClientApp.exe
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\MyClientApp.pdb
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.Form1.resources
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.Properties.Resources.resources
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.GenerateResource.cache
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.exe
+C:\Users\0138429\source\repos\web_services\ClientApp\MyClientApp\obj\Debug\MyClientApp.pdb

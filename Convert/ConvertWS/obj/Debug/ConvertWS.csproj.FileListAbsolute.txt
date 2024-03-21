@@ -1,0 +1,10 @@
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\bin\Debug\ConvertWS.exe.config
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\bin\Debug\ConvertWS.exe
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\bin\Debug\ConvertWS.pdb
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.Form1.resources
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.Properties.Resources.resources
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.csproj.GenerateResource.cache
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.exe
+C:\Users\0138429\source\repos\web_services\Convert\ConvertWS\obj\Debug\ConvertWS.pdb
